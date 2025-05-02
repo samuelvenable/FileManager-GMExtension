@@ -1,0 +1,1 @@
+# FileManager GameMaker Extension
