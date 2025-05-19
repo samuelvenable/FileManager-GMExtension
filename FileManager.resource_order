@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"libfilehide","order":1,"path":"extensions/libfilehide/libfilehide.yy",},
+    {"name":"obj_example","order":1,"path":"objects/obj_example/obj_example.yy",},
+    {"name":"rm_example","order":1,"path":"rooms/rm_example/rm_example.yy",},
+  ],
+}

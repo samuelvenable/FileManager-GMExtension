@@ -1,0 +1,1 @@
+file_hide(game_save_id + "тест");
