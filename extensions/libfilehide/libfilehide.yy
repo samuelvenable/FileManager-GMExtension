@@ -23,12 +23,12 @@
             1,
           ],"documentation":"","externalName":"file_hide","help":"","hidden":true,"kind":1,"returnType":2,},
       ],"init":"","kind":1,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
-    {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"libfilehide.cpp","constants":[],"copyToTargets":0,"filename":"libfilehide.cpp","final":"","functions":[],"init":"","kind":4,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
     {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"libfilehide.gml","constants":[],"copyToTargets":194,"filename":"libfilehide.gml","final":"","functions":[
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"file_hide","argCount":0,"args":[
             1,
           ],"documentation":"","externalName":"file_hide","help":"file_hide(fname)","hidden":false,"kind":2,"returnType":2,},
       ],"init":"","kind":2,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
+    {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"libfilehide.zip","constants":[],"copyToTargets":0,"filename":"libfilehide.zip","final":"","functions":[],"init":"","kind":4,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
   ],
   "gradleinject": "",
   "hasConvertedCodeInjection": true,
