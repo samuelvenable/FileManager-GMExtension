@@ -9,6 +9,7 @@ get_string_async("Downloads Directory Path: ", filename_absolute(directory_get_d
 get_string_async("Music Directory Path: ", filename_absolute(directory_get_music_path()));
 get_string_async("Pictures Directory Path: ", filename_absolute(directory_get_pictures_path()));
 get_string_async("Videos Directory Path: ", filename_absolute(directory_get_videos_path()));
+get_string_async("Public Directory Path: ", filename_absolute(directory_get_public_path()));
 
 if (!directory_exists(game_save_id))
     directory_create(game_save_id);
